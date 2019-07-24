@@ -1,3 +1,4 @@
+# first try
 # def prime?(num)
 #   num = 0
 #   while num < 0
@@ -6,6 +7,8 @@
 #   end
 #   true
 # end
+
+
 def prime? (n)
     if n <= 1
         false
